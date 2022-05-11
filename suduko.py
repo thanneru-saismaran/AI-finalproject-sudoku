@@ -2,7 +2,7 @@
 # coding: utf-8
 
 
-#solving sudoku without out backtracking
+#solving sudoku without  backtracking
 
 N = 9
 
