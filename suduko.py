@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[1]:
 
+#solving sudoku without out backtracking
 
 N = 9
 
@@ -71,8 +71,9 @@ else:
 
 
 
-# In[2]:
 
+
+# solving sudoku using backtracking
 
 
 def print_grid(a):
